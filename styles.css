@@ -1,0 +1,20 @@
+body {
+    margin: 20px;
+}
+.avatar{
+    width: 150px; 
+}
+.card{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px dotted blue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: blueviolet;
+    color: beige;
+    border-bottom: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
+    
+}
